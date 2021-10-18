@@ -55,5 +55,11 @@
 
 // // // // // git checkout feature1    => switched to feature1 branch
 
-// Now you can make changes in feature1 branch without affecting master branch and if your changes are goor for project, you can use merge command
+// Now you can make changes in feature1 branch without affecting master branch and if your changes are good for project, you can use merge command
 
+// // // // // git checkout -b feature2   => creates a new branch feature2 and switch to this new branch
+
+
+// // // // // git remote
+// // // // // git remote -v    => tells url from wherre to push and fetch
+// // // // // git push origin master  => push master branch in origin
