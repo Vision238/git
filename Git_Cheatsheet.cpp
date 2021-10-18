@@ -54,3 +54,9 @@
 // ex. git branch feature1 will make a new branch of name feature1
 
 // // // // // git checkout feature1    => switched to feature1 branch
+<<<<<<< HEAD
+=======
+
+// Now you can make changes in feature1 branch without affecting master branch and if your changes are goor for project, you can use merge command
+
+>>>>>>> Vision
